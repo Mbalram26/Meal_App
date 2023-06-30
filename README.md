@@ -5,7 +5,7 @@ In addition to the search feature, the app also includes the ability for users t
 
 Overall, this project demonstrates your skills in working with APIs, JavaScript, and web development in general. The use of vanilla JavaScript allows for a lightweight and fast-performing application, without the need for any additional JavaScript frameworks. It's a great addition to your portfolio to show your ability to create a functional web application from scratch.
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Key Features
 
 - Search Meal by name
@@ -13,35 +13,48 @@ Overall, this project demonstrates your skills in working with APIs, JavaScript,
 - Save favrouite meals for future use
 - Ability to restore saved meals even after reopening the browser
 - Works seamlessly on both mobile and desktop devices
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Prerequisites
 
 - A web browser (e.g. Google Chrome, Firefox, Safari)
 - An internet connection
 - A code editor (e.g. VS Code, Atom)
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Installing
 
 1. Clone or download the repository to your local machine
 2. Open the project in your code editor
 3. Open the index.html file in your web browser to run the app
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Built With
 
 - HTML
 - CSS
 - JavaScript
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Demo
 
 Check out the live demo of the application at https://mbalram26.github.io/Meal_App/
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Acknowledgments
 
 - The Meal DB API (https://www.themealdb.com
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
+<strong>Connect With Me @</strong>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/balram-maind"><img src="https://img.shields.io/badge/-BALRAM%20MAIND-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sbalram1000@gmail.com"><img src="https://img.shields.io/badge/-sbalram1000@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</a>
+
+</p>
+
